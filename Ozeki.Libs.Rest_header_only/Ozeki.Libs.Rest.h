@@ -1,6 +1,5 @@
 #import <Foundation/Foundation.h>
 
-//This is what happens when we change something in the repository.
 
 NS_ASSUME_NONNULL_BEGIN
 
