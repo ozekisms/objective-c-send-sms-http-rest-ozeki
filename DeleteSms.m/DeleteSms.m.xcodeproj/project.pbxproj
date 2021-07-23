@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8A65490B26AADB0200524B9E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A65490A26AADB0200524B9E /* main.m */; };
+		8A65491226AADB4200524B9E /* DeleteSms.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A65491126AADB4200524B9E /* DeleteSms.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		8A65490726AADB0200524B9E /* DeleteSms.m */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DeleteSms.m; sourceTree = BUILT_PRODUCTS_DIR; };
-		8A65490A26AADB0200524B9E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8A65491126AADB4200524B9E /* DeleteSms.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeleteSms.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		8A65490926AADB0200524B9E /* DeleteSms.m */ = {
 			isa = PBXGroup;
 			children = (
-				8A65490A26AADB0200524B9E /* main.m */,
+				8A65491126AADB4200524B9E /* DeleteSms.m */,
 			);
 			path = DeleteSms.m;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8A65490B26AADB0200524B9E /* main.m in Sources */,
+				8A65491226AADB4200524B9E /* DeleteSms.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
